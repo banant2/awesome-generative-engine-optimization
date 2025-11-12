@@ -44,6 +44,8 @@ While GEO shares foundations with SEO (quality content, technical optimization, 
 - [Research & Papers](#research--papers)
 - [Technical Documentation](#technical-documentation)
 - [Monitoring & Analytics](#monitoring--analytics)
+- [Communities & Forums](#communities--forums)
+- [Conferences & Events](#conferences--events)
 - [Industry Analysis](#industry-analysis)
 - [Related Resources](#related-resources)
 
@@ -97,8 +99,9 @@ While GEO shares foundations with SEO (quality content, technical optimization, 
 - **Content Structure Matters More** - TL;DR sections, Q&A formatting, and 40-70 word direct answers significantly increase citation probability
 - **Platform-Specific Citation Preferences**:
   - **ChatGPT**: Wikipedia dominates at 47.9% of top citations; values comprehensive, neutral, well-structured content
-  - **Perplexity**: Uses sophisticated 3-layer reranking system; favors academic sources and community discussions (Reddit)
-  - **Google AI Overviews**: 88.1% informational queries; 7x more likely to trigger with 8+ word queries
+  - **Perplexity**: Uses sophisticated 3-layer reranking system; heavily favors Reddit (46.7% of citations) and academic sources over traditional articles
+  - **Google AI Overviews**: 88.1% informational queries; 7x more likely to trigger with 8+ word queries; Reddit accounts for 21% of citations
+  - **Community Content Priority**: All major AI engines increasingly prioritize fresh community discussions, user experiences, and forum insights over static article content
 - **Authority Signals Evolve** - Domain authority matters more than page authority. AI platforms prioritize trust and credibility of entire domains over individual pages
 
 ### Key 2025 Findings
@@ -128,27 +131,34 @@ While GEO shares foundations with SEO (quality content, technical optimization, 
 
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
-- **[Profound](https://www.tryprofound.com/)** - Enterprise benchmark platform. $35M Series B (Sequoia Capital). Tracks ChatGPT, Claude, Perplexity, Gemini. Share of voice, sentiment analysis, prompt-level rankings
+- **[AI Monitor](https://aimonitor.io/)** - Real-time alerts with sentiment analysis across ChatGPT, Claude, Bing AI, Google AI Overviews
+- **[Airank](https://airank.io/)** - Entity mapping and knowledge graph optimization for AI search engines
+- **[Am I On AI](https://amiontai.com/)** - Quick checker to see if your brand appears in major AI search results
 - **[AthenaHQ](https://www.athenahq.ai/)** - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases
 - **[Bluefish AI](https://bluefishai.com/)** - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns
-- **[Otterly.AI](https://otterly.ai/)** - Focused on link citation analysis for Google AI Overview and Perplexity. Timeline tracking and competitive benchmarking
-- **[Scrunch AI](https://scrunch.ai/)** - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization
-- **[Peec.ai](https://peec.ai/)** - AI search visibility platform with competitive analysis and optimization recommendations
-- **[Rankscale](https://rankscale.com/)** - AI-first SEO platform with GEO capabilities for enterprise brands
-- **[ZipTie](https://ziptie.ai/)** - Brand visibility monitoring across generative AI platforms with detailed breakdowns
+- **[DeepSERP](https://deepserp.com/)** - Specialized crawl audits and technical analysis for AI search engine visibility
 - **[GenRank](https://genrank.io/)** - Timeline visualization and competitor benchmarking for AI visibility trends
-- **[AI Monitor](https://aimonitor.io/)** - Real-time alerts with sentiment analysis across ChatGPT, Claude, Bing AI, Google AI Overviews
+- **[Goodie AI](https://goodie.ai/)** - Leading AI-native GEO platform founded by experts from major tech companies. Comprehensive suite of GEO optimization and monitoring tools
+- **[LLM Scout](https://llmscout.com/)** - Discovery and tracking tool for LLM mentions and citations
+- **[LLMOmetrics](https://llmometrics.com/)** - Hallucination detection and fixing for improved AI citation accuracy
+- **[Otterly.AI](https://otterly.ai/)** - Focused on link citation analysis for Google AI Overview and Perplexity. Timeline tracking and competitive benchmarking
+- **[Peec.ai](https://peec.ai/)** - AI search visibility platform with competitive analysis and optimization recommendations
+- **[Profound](https://www.tryprofound.com/)** - Enterprise benchmark platform. $35M Series B (Sequoia Capital). Tracks ChatGPT, Claude, Perplexity, Gemini. Share of voice, sentiment analysis, prompt-level rankings
+- **[Rankscale](https://rankscale.com/)** - AI-first SEO platform with GEO capabilities for enterprise brands
+- **[Rankshift](https://rankshift.com/)** - Position tracking and visibility monitoring for AI-powered search platforms
+- **[Scrunch AI](https://scrunch.ai/)** - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization
+- **[ZipTie](https://ziptie.ai/)** - Brand visibility monitoring across generative AI platforms with detailed breakdowns
 
 ### Enterprise SEO Platforms with GEO Features
 
 Major SEO platforms that have added AI search optimization capabilities:
 
-- **[SEMrush](https://www.semrush.com/)** - AI Visibility Toolkit ($99/month per domain). Position Tracking for AI Overviews. Enterprise AIO for brand mentions, sentiment, prompt rankings across ChatGPT, Perplexity, Gemini, Claude. 100M+ prompt database
 - **[Ahrefs Brand Radar](https://ahrefs.com/brand-radar)** - Launched March 2025. Tracks visibility in ChatGPT, Google AI Overviews, Gemini, Perplexity, Copilot. 100M+ prompt database from real search data. Included with subscriptions ($129-$999/month)
-- **[HubSpot AI Search Grader](https://www.hubspot.com/)** - Free AI Search Grader tool. LLM-referred visitor segmentation. Acquired XFunnel (Jan 2025) for AI search simulations and transparency
-- **[Writesonic](https://writesonic.com/)** - Multi-platform tracking with content creation integration for ChatGPT, Google AI Overviews, Perplexity, Claude, Gemini
 - **[ChatGPT Rank Tracker](https://chatgptrank.com/)** - Dedicated SearchGPT/ChatGPT Search visibility tracking
 - **[Create & Grow AI Overview Tracker](https://createandgrow.com/)** - Focused on Google AI Overviews mention tracking
+- **[HubSpot AI Search Grader](https://www.hubspot.com/)** - Free AI Search Grader tool. LLM-referred visitor segmentation. Acquired XFunnel (Jan 2025) for AI search simulations and transparency
+- **[SEMrush](https://www.semrush.com/)** - AI Visibility Toolkit ($99/month per domain). Position Tracking for AI Overviews. Enterprise AIO for brand mentions, sentiment, prompt rankings across ChatGPT, Perplexity, Gemini, Claude. 100M+ prompt database
+- **[Writesonic](https://writesonic.com/)** - Multi-platform tracking with content creation integration for ChatGPT, Google AI Overviews, Perplexity, Claude, Gemini
 
 ### Utilities & Generators
 
@@ -156,10 +166,10 @@ Major SEO platforms that have added AI search optimization capabilities:
 - **[AI Product Bench](https://github.com/amplifying-ai/ai-product-bench)** - Benchmark for AI product visibility
 
 **llms.txt Generators**
-- **[llmstxtgenerator.org](https://llmstxtgenerator.org/)** - Web-based generator
-- **[WordLift Generator](https://wordlift.io/generate-llms-txt/)** - WordPress integration
 - **[Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator)** - Scraping-based generator
+- **[llmstxtgenerator.org](https://llmstxtgenerator.org/)** - Web-based generator
 - **[vitepress-plugin-llms](https://github.com/AnswerDotAI/llms-txt)** - VitePress plugin
+- **[WordLift Generator](https://wordlift.io/generate-llms-txt/)** - WordPress integration
 
 
 
@@ -193,11 +203,15 @@ Major SEO platforms that have added AI search optimization capabilities:
 ### llms.txt Protocol
 
 - **[llms.txt Specification](https://github.com/AnswerDotAI/llms-txt)** - Official standard by Jeremy Howard
-- **[Companies Using llms.txt](https://llms-txt.io/blog/companies-using-llms-txt-examples)** - Implementations by Zapier, Stripe, Cloudflare
-- **[llms.txt Directory](https://directory.llmstxt.cloud/)** - Growing list of 100+ implementations
+- **[LLMS.txt Adoption Research Report 2025](https://www.rankability.com/data/llms-txt-adoption/)** - Updated monthly tracking showing 784+ websites implementing llms.txt/llms-full.txt (0.3% of top 1,000 websites as of June 2025)
+- **[Companies Using llms.txt](https://llms-txt.io/blog/companies-using-llms-txt-examples)** - Implementations by Zapier, Stripe, Cloudflare, Anthropic, Vercel, Supabase, ElevenLabs
+- **[Who is Using llms.txt?](https://www.llms-text.com/blog/sites-using-llms-txt)** - Examples and adoption patterns across AI/ML, Developer Tools, and SaaS sectors
+- **[llms.txt Directory](https://directory.llmstxt.cloud/)** - Community-driven directory of implementations
 - **[What Is llms.txt?](https://ahrefs.com/blog/what-is-llms-txt/)** - Ahrefs implementation guide
 - **[LLMs.txt Technical Deep Dive](https://towardsdatascience.com/llms-txt-414d5121bcb3/)** - Protocol analysis
+- **[The Value of llms.txt: Hype or Real?](https://www.mintlify.com/blog/the-value-of-llms-txt-hype-or-real)** - Critical analysis of adoption drivers and barriers
 - **[LLMSDB](https://llmsdb.com)** - Directory of llms.txt files
+- **[Google A2A Protocol](https://developers.google.com/search/docs/crawling-indexing/a2a-protocol)** - Google's Author-to-AI protocol includes llms.txt support
 
 ### AI Crawlers
 
@@ -227,7 +241,45 @@ Major SEO platforms that have added AI search optimization capabilities:
 - **[LLM Tracking Tools Overview](https://nightwatch.io/blog/llm-tracking-tools/)** - Feature comparison across major tracking platforms
 - **[AI Search Visibility Tools Directory](https://www.rankability.com/blog/best-ai-search-visibility-tracking-tools/)** - Comprehensive directory of tracking tools
 
-  
+
+
+## Communities & Forums
+
+### Why Community Content Matters for GEO
+
+Community forums and discussion platforms have emerged as critical sources for AI search engines:
+
+- **Reddit's Dominance in AI Citations** - Reddit provides 46.7% of Perplexity's citations, making it the platform with the strongest community content preference. Google AI Overviews also uses Reddit for 21% of citations
+- **Fresh Opinions vs. Static Articles** - AI engines increasingly prioritize fresh community discussions, user experiences, and real-world insights from forums over traditional article content
+- **Multi-Platform Community Strategy** - Beyond Reddit, platforms like Hacker News, specialized forums, Discord communities, and Stack Overflow contribute to AI training data and retrieval systems
+
+### Key Community Platforms
+
+- **[Reddit](https://reddit.com/)** - Critical for Perplexity optimization (46.7% of citations). Focus on relevant subreddits in your industry
+- **[Hacker News](https://news.ycombinator.com/)** - Highly authoritative for tech and startup content. Frequently cited by AI engines
+- **[Stack Overflow](https://stackoverflow.com/)** - Developer-focused. Essential for technical product visibility
+- **[Quora](https://quora.com/)** - Question-answer format aligns well with AI search patterns
+- **[Product Hunt](https://www.producthunt.com/)** - Product launches and discussions cited for product recommendations
+- **Industry-Specific Forums** - Niche communities in your vertical often carry high authority signals
+
+### Community Optimization Strategies
+
+- **Authentic Participation** - Genuine engagement and helpful contributions build authority that AI systems recognize
+- **Structured Answers** - Use clear formatting, bullet points, and comprehensive responses that AI can easily parse
+- **Source Citations** - Link to authoritative sources in forum posts to increase credibility
+- **Consistent Brand Presence** - Regular participation across relevant communities strengthens entity recognition
+
+
+
+## Conferences & Events
+
+- **[GEO Conference](https://www.geo-conference.com/)** - The first dedicated Generative Engine Optimization conference. Held in Austin (July 2025) and San Francisco. Focuses exclusively on AI search optimization strategies
+- **[MozCon](https://moz.com/mozcon)** - Major SEO conference with increasing AI search focus. Covers ranking strategies, SERP insights, and AI-driven search innovations
+- **[BrightonSEO](https://brightonseo.com/)** - September 23-24, 2025 (San Diego) and October 23-24, 2025 (Brighton, UK). Features AI for SEO, content creation, and technical optimization tracks
+- **[Chiang Mai SEO Conference](https://www.cmseo.org/)** - Global gathering with deep dives into technical SEO, paid media, and AI-driven search
+- **[Search 'n Stuff Antalya](https://searchnstuff.org/)** - Global Digital Marketing Conference featuring 45+ international speakers on SEO, analytics, and AI-driven marketing
+
+
 
 ## Industry Analysis
 
@@ -255,22 +307,22 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 Agencies offering dedicated generative engine optimization services:
 
-- **[First Page Sage](https://firstpagesage.com/)** - Top-rated GEO agency serving Salesforce, Logitech. Specializes in B2B SaaS, medtech, manufacturing
-- **[iPullRank](https://ipullrank.com/)** - Enterprise-focused. Semantic optimization, conversational search, scalable information architecture for LLM parsing
-- **[WebFX](https://www.webfx.com/)** - Full-service with proprietary OmniSEO™ platform. Tracks client/competitor performance across AI-driven search
-- **[Victorious](https://victorious.com/)** - Award-winning for technical precision. Structured content, rich snippets, prompt-based optimizations
-- **[Omniscient Digital](https://beomniscient.com/)** - Helps websites become trusted sources cited by LLMs. Integrated SEO+GEO approach
 - **[Avenue Z](https://avenuez.com/)** - Serves FinTech, B2B SaaS, HealthTech, DTC eCommerce
-- **[Siege Media](https://www.siegemedia.com/)** - Content-focused GEO with comprehensive optimization strategies
-- **[Obility](https://www.obilityb2b.com/)** - B2B marketing focus with GEO integration
-- **[RevenueZen](https://revenuezen.com/)** - B2B GEO specialists for growth-stage companies
+- **[First Page Sage](https://firstpagesage.com/)** - Top-rated GEO agency serving Salesforce, Logitech. Specializes in B2B SaaS, medtech, manufacturing
 - **[Growth Plays](https://www.growthplays.com/)** - Data-driven GEO and content strategies
 - **[Ignite Visibility](https://ignitevisibility.com/)** - Full-service digital marketing with GEO capabilities
+- **[iPullRank](https://ipullrank.com/)** - Enterprise-focused. Semantic optimization, conversational search, scalable information architecture for LLM parsing
+- **[Obility](https://www.obilityb2b.com/)** - B2B marketing focus with GEO integration
+- **[Omniscient Digital](https://beomniscient.com/)** - Helps websites become trusted sources cited by LLMs. Integrated SEO+GEO approach
+- **[RevenueZen](https://revenuezen.com/)** - B2B GEO specialists for growth-stage companies
+- **[Siege Media](https://www.siegemedia.com/)** - Content-focused GEO with comprehensive optimization strategies
+- **[Victorious](https://victorious.com/)** - Award-winning for technical precision. Structured content, rich snippets, prompt-based optimizations
+- **[WebFX](https://www.webfx.com/)** - Full-service with proprietary OmniSEO™ platform. Tracks client/competitor performance across AI-driven search
 
 **Agency Directories & Reviews**
 
-- **[GEO Agencies on Clutch](https://clutch.co/seo-firms/generative-engine-optimization)** - Verified reviews and rankings
 - **[FirstPageSage Agency Guide](https://firstpagesage.com/seo-blog/the-top-generative-engine-optimization-geo-agencies-of-2025/)** - Comprehensive agency analysis
+- **[GEO Agencies on Clutch](https://clutch.co/seo-firms/generative-engine-optimization)** - Verified reviews and rankings
 - **[Omniscient Digital's Agency Review](https://beomniscient.com/blog/geo-agencies/)** - Detailed agency comparisons
 
 
