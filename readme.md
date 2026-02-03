@@ -156,12 +156,12 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Google Adds llms.txt to Search Central Docs](https://www.omnius.so/industry-updates/google-adds-llms-txt-to-docs-after-publicly-dismissing-it) - On December 3, 2025, Google quietly added then removed llms.txt from Search Central documentation the same day, despite previously dismissing the standard.
 - [Companies Using llms.txt](https://llms-txt.io/blog/companies-using-llms-txt-examples) - Implementations by Zapier, Stripe, Cloudflare, Anthropic, Vercel, Supabase, ElevenLabs.
 - [Who is Using llms.txt?](https://www.llms-text.com/blog/sites-using-llms-txt) - Examples and adoption patterns across AI/ML, Developer Tools, and SaaS sectors.
-- [llms.txt Directory](https://directory.llmstxt.cloud/) - Community-driven directory of implementations.
 - [llms.txt Directory](https://stackfox.co/llms-txt) - Directory of llms.txt files.
-- [AI Bots](https://stackfox.co/bots) - Directory of AI bots and crawlers.
+- [llms.txt Directory](https://directory.llmstxt.cloud/) - Community-driven directory of implementations.
 
 ### AI Crawlers
 
+- [AI Crawler User Agents List by Company](https://stackfox.co/bots) - Directory of AI bots and crawlers.
 - [AI Crawler User Agents List](https://momenticmarketing.com/blog/ai-search-crawlers-bots) - Comprehensive list updated monthly.
 - [The Rise of AI Crawlers](https://vercel.com/blog/the-rise-of-the-ai-crawler) - Analysis of 1.3B crawler requests.
 - [How OpenAI Crawls Websites](https://www.withdaydream.com/library/how-openai-crawls-and-indexes-your-website) - Technical breakdown.
